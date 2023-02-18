@@ -40,6 +40,8 @@ def setup_cfg(args):
     cfg.merge_from_list(args.opts)
     cfg.MODEL.RETINANET.NUM_CLASSES = 2
     cfg.DATASETS.TEST = ("test_data",)
+    cfg.INPUT.MIN_SIZE_TEST =  640
+    cfg.INPUT.MAX_SIZE_TEST =  640 
     cfg.freeze()
     return cfg
 
