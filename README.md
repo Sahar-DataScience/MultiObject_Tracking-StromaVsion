@@ -11,5 +11,5 @@ Tracking Bolts and Nuts in real time using ByteTrack  Combined with RetinaNet_Re
 
 ## visual result
 
-<img src='https://github.com/Sahar-DataScience/MultiObject_Tracking-StromaVsion/blob/main/result3.gif' width='40%'/>
+<img src='https://github.com/Sahar-DataScience/MultiObject_Tracking-StromaVsion/blob/main/result4.gif' width='60%'/>
 
