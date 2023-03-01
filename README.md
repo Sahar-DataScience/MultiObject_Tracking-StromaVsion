@@ -12,13 +12,13 @@ as the challenge was about Multi Object Tracking, (object detector followed by t
 - can do the job
 
 
-## Cusomized Codes
+## Customized Codes
 
 - the original **export_model.py** is from detectron2 [repo](https://github.com/facebookresearch/detectron2/tree/main/tools/deploy)
 
 - the original **onnx_inference.py** is from BYTETRACK [repo](https://github.com/ifzhang/ByteTrack/tree/main/deploy/ONNXRuntime) 
 
-## Challeneges
+## Challenges
 
 Limited acces to gpu on colab that imposed training the model for only 3 epochs (6 continuous hours).
 
