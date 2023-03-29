@@ -26,3 +26,6 @@ Limited acces to gpu on colab that imposed training the model for only 3 epochs 
 
 <img src='https://github.com/Sahar-DataScience/MultiObject_Tracking-StromaVsion/blob/main/result4.gif' width='60%'/>
 
+## Implementing MOT metrics 
+
+ [link](https://github.com/cheind/py-motmetrics)
